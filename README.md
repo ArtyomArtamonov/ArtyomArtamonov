@@ -20,8 +20,3 @@ I live in Saint Petersburg, Russia and I love making software!
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artyomartamonov&show_icons=true&locale=en&layout=compact&hide=Javascript" alt="artyomartamonov" /></p>
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artyomartamonov&show_icons=true&locale=en" alt="artyomartamonov" /></p>

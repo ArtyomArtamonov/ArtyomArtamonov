@@ -16,4 +16,4 @@ I live in Saint Petersburg, Russia and I love making software!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artyomartamonov&show_icons=true&locale=en&layout=compact&hide=Javascript" alt="artyomartamonov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artyomartamonov&show_icons=true&locale=en&layout=compact&hide=Javascript,swift" alt="artyomartamonov" /></p>

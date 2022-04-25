@@ -1,6 +1,5 @@
 # Hey 👋, I'm Artyom Artamonov
 
-[![](https://img.shields.io/badge/-%40artyomartamonov-black?style=flat-square&logo=github&link=https://github.com/ArtyomArtamonov)](https://github.com/ArtyomArtamonov)
 [![](https://img.shields.io/badge/-Artyom%20Artamonov-blue?logo=linkedin&link=https://www.linkedin.com/in/artyom-artamonov-a90a9b200/)](https://www.linkedin.com/in/artyom-artamonov-a90a9b200/)
 
 I live in Saint Petersburg, Russia and I love making software!

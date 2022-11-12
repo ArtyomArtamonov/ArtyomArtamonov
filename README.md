@@ -14,9 +14,3 @@ I live in Saint Petersburg, Russia and I love making software!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-<p>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=artyomartamonov&show_icons=true&locale=en&layout=compact&hide=Javascript,swift,css,ruby&theme=dark">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artyomartamonov&show_icons=true&locale=en&layout=compact&hide=Javascript,swift,css,ruby" alt="artyomartamonov" /></p>
-</picture>

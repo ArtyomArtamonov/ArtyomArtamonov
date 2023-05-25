@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-Artyom%20Artamonov-blue?logo=linkedin&link=https://www.linkedin.com/in/artyom-artamonov-a90a9b200/)](https://www.linkedin.com/in/artyom-artamonov-a90a9b200/)
 
-I live in Saint Petersburg, Russia and I love making software!
+Backend developer
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
